@@ -3,13 +3,14 @@ title: Tools & Resources
 nav: Resources
 ---
 
- This list of resources will help you find OSINT tools for your informal reports and beyond!
+ This list of resources will help you find OSINT tools for your work in class and beyond!
+
+### Sites with lots of tools
 
 - [OSINT Framework](https://osintframework.com/)
 - [IntelTechniques - Tools](https://inteltechniques.com/tools/)
 - [Cyb_Detective](https://github.com/cipher387/osint_stuff_tool_collection)
 
-## Specific usecases
 
 ### Images
 
