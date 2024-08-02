@@ -1,5 +1,5 @@
 ---
-title: Advance Searching
+title: Advanced Searching
 nav: Searching
 ---
 
