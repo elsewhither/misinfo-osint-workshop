@@ -1,13 +1,12 @@
 ---
-title: Introduction
-nav: Intro
-topics: 
+title: Advance Searching
+nav: Searching
 ---
 
-*...Under Construction..*
+*...Under Construction...*
 
-## What is Misinformation
+## Booleans
 
-## What is OSINT
+## Advanced Search Features
 
-### Intelligence Cycle
+## Google Dorking
