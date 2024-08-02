@@ -1,7 +1,7 @@
 ---
 title: Geolocation
 nav: Geo
-topics: Content; Markdown; Includes
+topics:
 youtubeid:
 ---
 
