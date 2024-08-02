@@ -1,12 +1,13 @@
----
-title: Advance Searching
-nav: Searching
+title: Reverse Image Searching
+nav: Images
+topics:
+youtubeid: 
 ---
 
 *...Under Construction...*
 
-## Booleans
+## Video Walkthrough
 
-## Advanced Search Features
+#{% include video-embed.html youtubeid="moJgWrD6dwg" caption="Example video" %}
 
-## Google Dorking
+## Tutorial
