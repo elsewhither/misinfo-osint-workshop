@@ -12,7 +12,7 @@ This course will teach public library patrons how to begin investigating misinfo
 
 {% capture text %}
 
-*As a result of completing this unit, you will be able to:*
+*After completing this course, you will be able to:*
 
 1. Define disinformation, misinformation, and what types of information is public.
 2. Evaluate information online, especially in social media, for accuracy on a fundamental level.
