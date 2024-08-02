@@ -15,7 +15,7 @@ title: Investigating Misinformation
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: highlights
+title-icon: file-code
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "Invesitgate misinformation with open, public sources!"
