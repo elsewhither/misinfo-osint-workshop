@@ -24,7 +24,6 @@ This course will teach public library patrons how to begin investigating misinfo
 {% include toc.html %}
 
 
-{% include toc.html %}
 
 ------
 
