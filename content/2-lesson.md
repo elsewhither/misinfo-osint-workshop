@@ -1,7 +1,6 @@
 ---
 title: Geolocation
-nav: Geo
-topics:
+nav: Geolocation
 youtubeid:
 ---
 
