@@ -1,7 +1,6 @@
 ---
 title: Reverse Image Searching
 nav: Images
-youtubeid: TVxlN88BGW4
 ---
 
 ## Video Walkthrough
