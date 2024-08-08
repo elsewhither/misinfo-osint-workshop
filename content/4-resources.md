@@ -9,6 +9,7 @@ nav: Resources
 
 - [OSINT Framework](https://osintframework.com/)
 - [IntelTechniques - Tools](https://inteltechniques.com/tools/)
+- [Bellingcat's Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit?gid=930747607#gid=930747607)
 - [Cyb_Detective](https://github.com/cipher387/osint_stuff_tool_collection)
 
 
@@ -26,6 +27,15 @@ nav: Resources
 
 ### Social Media
 
-- [WhatsMyName](https://whatsmyname.app/) Find profiles with the same username over many platforms 
+- [WhatsMyName](https://whatsmyname.app/) Find profiles with the same username over many platforms
+
+### Search Engines Galore
+- [Google](https://www.google.com/)
+- [Bing](https://www.bing.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Brave](https://search.brave.com/)
+- [StartPage](https://www.startpage.com/)
+- [SwissCows](https://swisscows.com/en)
+- [Stract](https://stract.com/)
 
 
