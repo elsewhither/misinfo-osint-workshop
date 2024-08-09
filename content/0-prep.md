@@ -7,8 +7,4 @@ nav: Searching
 
 *...Under Construction...*
 
-## Booleans
-
-## Advanced Search Features
-
-## Google Dorking
+*Full tutortial will be included in final version of course*
